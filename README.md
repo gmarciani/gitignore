@@ -1,6 +1,6 @@
 # GITIGNORE
 
-*The gitignore collection*
+*A collection of cool gitignores*
 
 - - -
 
