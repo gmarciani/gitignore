@@ -1,0 +1,9 @@
+#==============================================================================#
+# SASS GITIGNORE
+#
+# This file specifies intentionally untracked files that git should ignore.
+# See: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
+#==============================================================================#
+
+.sass-cache/
+*.css.map
