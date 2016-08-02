@@ -1,0 +1,43 @@
+#==============================================================================#
+# BUILD GITIGNORE
+#
+# This file specifies intentionally untracked files that git should ignore.
+# See: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
+#==============================================================================#
+
+#==============================================================================#
+# BUILD TOOLS
+#==============================================================================#
+#==============================================================================#
+# CMake
+#==============================================================================#
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+#==============================================================================#
+# Maven
+#==============================================================================#
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+#==============================================================================#
+# Gradle
+#==============================================================================#
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+#gradle/wrapper/gradle-wrapper.properties
