@@ -41,3 +41,8 @@ gradle-app.setting
 !gradle-wrapper.jar
 .gradletasknamecache
 #gradle/wrapper/gradle-wrapper.properties
+
+#==============================================================================#
+# BOWER
+#==============================================================================#
+bower_components
