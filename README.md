@@ -23,7 +23,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Giacomo Marciani, [gmarciani@acm.org](mailto:gmarciani@acm.org)
 
 ## References
-Marciani, G., Piu, M., Porretta, M., Nardelli, M. and Cardellini, V., 2016, June. Real-time analysis of social networks leveraging the flink framework. *In Proceedings of the 10th ACM International Conference on Distributed and Event-based Systems* (pp. 386-389). ACM. [Read here](http://dl.acm.org/citation.cfm?id=2933517)
+Giacomo Marciani, Marco Piu, Michele Porretta, Matteo Nardelli, and Valeria Cardellini. 2016. Real-time analysis of social networks leveraging the flink framework. In *Proceedings of the 10th ACM International Conference on Distributed and Event-based Systems (DEBS '16)*. ACM, New York, NY, USA, 386-389. [DOI](http://dx.doi.org/10.1145/2933267.2933517) [Read here](http://dl.acm.org/citation.cfm?id=2933517)
 
 ## Contributing
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
